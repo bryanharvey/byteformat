@@ -1,6 +1,6 @@
 import pytest
 
-from byteformat import format_bytes, parse_bytes
+from byte_format import format_bytes, parse_bytes
 
 
 def test_format_zero():
